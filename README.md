@@ -1,16 +1,13 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 
 
-<!--
-**victorgab77/victorgab77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Victor Gabriel
 
-Here are some ideas to get you started:
+-Estou estudando ma [Alura](https://cursos.alura.com.br)
+-Estou me desenvolvendo ma linguagem JavaScript
+-Utilizo esse espaço para minha organização e compartihamento dos meus projetos desenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Você pode entrar em contato comig em 
+
+00001109683819sp@al.educacao.sp.gov.br
+
+@biel_rezende_015
